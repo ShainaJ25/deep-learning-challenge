@@ -32,4 +32,4 @@
 
 3. Summary:
 
-    * Overall the neural network model performance was able to achieve approximately 73% in predicting the classification outcome and was not able to achieve the target model performance. To increase the model performance, using a model that better shows the relationship between input features and the target would be beneficial. A way to achieve this would be to clean and remove the features better and to try different comninations of layers, activations, and epochs. 
+* Overall the neural network model performance was able to achieve approximately 73% in predicting the classification outcome and was not able to achieve the target model performance. To increase the model performance, using a model that better shows the relationship between input features and the target would be beneficial. A way to achieve this would be to clean and remove the features better and to try different comninations of layers, activations, and epochs. 
