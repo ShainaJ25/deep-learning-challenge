@@ -9,13 +9,13 @@
 * Data Preprocessing
 
     * What variable(s) are the target(s) for your model?
-      * The target variable is the 'IS_SUCCESSFUL' column.
+      * The target variable was the 'IS_SUCCESSFUL' column.
 
     * What variable(s) are the features for your model?
       * The feature variables for my model were everything but the "IS_SUCCESSFUL" column. This includes "APPLICATION_TYPE", "AFFILATION", "CLASSIFICATION", "USE_CASE", "ORGANIZATION", "STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", "ASK_AMT".
 
     * What variable(s) should be removed from the input data because they are neither targets nor features?
-      * The "EIN" and "NAME" variables were removed from the imput data becasue they were neither targets or features.
+      * The "EIN" and "NAME" variables were removed from the input data because they were neither targets or features.
 
 * Compiling, Training, and Evaluating the Model
 
@@ -28,7 +28,7 @@
       * I was not able to achieve the target model performance for either my neural network model or my optimized neural network model. 
 
     * What steps did you take in your attempts to increase model performance?
-      * The steps I took to increase model performance in my attempts were to clean and remove feautres and trying different number of layers, activations, and epochs.  
+      * The steps I took in my attempts to increase model performance were to clean and remove features while also trying different numbers of layers, activations, and epochs.  
 
 3. Summary:
 
